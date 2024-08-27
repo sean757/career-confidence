@@ -1,0 +1,27 @@
+score = 0
+r = rake()
+page = pdf.load(jobdesc.pdf)
+page2 = pdf.load(cv.pdf)
+jdt = ""
+cvt = ""
+
+for x in page:
+	jdt = x.get_text()
+for x in page2:
+	cvt = x.get_text()
+	
+kwlist = r.extract_keywords_from_text(jdt)
+
+if kwlist.len >= 10 then
+	count = 0
+	for i in kwlist
+		if i in cvt then
+			count = count + 1
+		endif
+	clc = count/10
+	if clc >= 0.3 then
+		score = score + 5
+	elseif clc >= 0.7 then
+		score = score + 10
+	endif
+endif

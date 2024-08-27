@@ -1,0 +1,34 @@
+Location: London, England
+Type: Full-Time
+
+Company Overview:
+We are a fast-growing tech startup based in London, dedicated to developing cutting-edge software solutions that make a difference. Innovating within the realms of artificial intelligence, web development, and cloud computing, we aim to revolutionize how businesses operate and how people interact with technology. Join us to be part of a vibrant team committed to excellence, innovation, and collaboration.
+
+Job Description:
+We are seeking a passionate and talented Junior Software Engineer to join our dynamic development team. This role is ideal for recent graduates like Ashwin McCarthy, who possess a solid foundation in computer science, exemplary programming skills, and a keen interest in developing high-quality software solutions. As a Junior Software Engineer, you will contribute to all phases of the software development lifecycle, from design to deployment, bringing creative solutions to complex problems.
+
+Key Responsibilities:
+
+Collaborate with a cross-functional team to define, design, and ship new features.
+Write efficient, maintainable, and reusable code based on best software development practices.
+Participate in code reviews to maintain high code quality and share knowledge across the team.
+Assist in the integration of user-facing elements developed by front-end developers with server-side logic.
+Implement security and data protection measures.
+Troubleshoot, debug, and upgrade existing systems.
+Continuously explore, evaluate, and implement new technologies to maximize development efficiency.
+Qualifications:
+
+Bachelor's degree in Computer Science, Information Technology, or a related field from a reputable institution.
+Proficient in programming languages such as Python, Java, C++, and JavaScript.
+Familiarity with front-end and back-end frameworks and technologies, ideally Django, React, Node.js, and both SQL and NoSQL databases.
+Knowledge of software deployment tools and practices, including Git, Docker, and continuous integration/continuous deployment (CI/CD) pipelines.
+Excellent problem-solving skills, attention to detail, and the ability to work in a fast-paced, team-oriented environment.
+Strong verbal and written communication skills.
+Benefits:
+
+Competitive salary with performance bonuses.
+Health and wellness benefits including gym membership discounts.
+A vibrant and inclusive company culture with regular team-building events.
+Opportunities for professional growth and development, including access to learning resources and internal mentorship.
+How to Apply:
+Please send your resume, a cover letter explaining your interest and fit for the role, and any relevant project or code samples to careers@ourstartup.com.

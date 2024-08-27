@@ -1,0 +1,44 @@
+James Danilo
+
+Contact Information:
+
+Email: jdanilo23821@yahoo.com
+Phone: (555) 555-5555
+Address: 5396 North Reese Avenue, Fresno, CA 93722
+Objective: Dedicated and innovative Computer Engineer with over 3 years of experience in software development, hardware design, and system integration, seeking to leverage expertise at Tech Innovations Inc. Aims to contribute to developing cutting-edge solutions and advancing technological progress.
+
+Education:
+
+Master of Science in Computer Engineering
+University of Excellence, Graduated June 2021
+Bachelor of Science in Electrical Engineering
+Tech University, Graduated May 2018
+Professional Experience:
+
+Software Engineer, Innovative Solutions Corp., Jan 2022 - Present
+
+Designed and developed software systems using C++, Python, and Java.
+Collaborated with the R&D team on new technology initiatives, contributing to two patents.
+Optimized legacy systems, resulting in a 20% increase in performance.
+Led a team project to integrate AI technologies into existing systems, enhancing functionality.
+Junior Computer Engineer, TechStart Inc., Aug 2018 - Dec 2021
+
+Assisted in the design and development of hardware components.
+Participated in troubleshooting and resolving hardware and software issues.
+Supported senior engineers in researching and testing new technologies.
+Documented system designs and modifications for team reference.
+Skills:
+
+Programming Languages: C++, Python, Java
+Hardware Design and Testing
+Software Development and Engineering
+Problem Solving and Analytical Skills
+Cross-functional Teamwork
+Continuous Learning and Adaptation
+Database Management
+Familiar with Machine Learning and AI Concepts
+Achievements:
+
+Co-authored 2 patents in software development technologies.
+Led a successful project integrating AI into existing systems, received the 'Innovator of the Year' award at Innovative Solutions Corp.
+References: Available upon request.

@@ -1,0 +1,10 @@
+cv = # user inputs path to cv
+jd = # user inputs path to job description
+
+cvc = path.isfile(cv)
+jdc = path.isfile(jd)
+
+while cvc = False or jdc = False:
+	print('ERROR! Files have not been submitted.')
+else:
+	# insert functions to begin calculations

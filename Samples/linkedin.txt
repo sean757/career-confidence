@@ -1,0 +1,26 @@
+work = # insert job title found in job desc document
+location = # insert job location found in job desc document
+url = "https://www.linkedin.com/jobs/search?keywords={work}&location={place}" 
+# currently only using linkedin for testing but will expand after this is fully completed
+
+headers = {
+
+	accept:
+	encoding:
+	language:
+	cookie:
+	platform:
+	user-agent:
+}
+
+login = # send login request to the job search url, most likely to use requests.get
+
+# insert code to find the top 5 results, will use beautifulsoup to find the elements on the webpage
+
+
+
+
+
+
+
+

@@ -1,0 +1,46 @@
+Ashwin McCarthy
+
+Contact Information
+
+Location: London, England
+Email: ashwin.mccarthy@email.com
+Phone: +44 20 7946 0000
+Objective
+
+A recent BSc Computer Science graduate from UCL seeking a challenging role as a software engineer in a dynamic organization, where I can apply my coding, problem-solving, and analytical skills to deliver high-quality software solutions.
+
+Education
+
+BSc Computer Science, University College London (UCL), London, England
+Graduation Date: June 2023
+Relevant Courses: Data Structures and Algorithms, Database Systems, Software Engineering, Artificial Intelligence, Web Development
+Final Year Project: Developed an AI-based chatbot to assist with student queries on campus, utilizing Python and Natural Language Processing techniques.
+Skills
+
+Programming Languages: Proficient in Python, Java, C++, and JavaScript
+Frameworks and Technologies: Experience with Django, React, Node.js, SQL, and NoSQL databases
+Tools: Familiar with Git, Docker, Jenkins, and Kubernetes for CI/CD pipelines
+Soft Skills: Strong problem-solving skills, excellent communication abilities, able to work effectively both as part of a team and independently
+Experience
+
+Software Engineering Intern, Tech Innovations, London, England (June 2022 - August 2022)
+
+Developed several features for an internal project management tool using Django and React.
+Collaborated with the design team to improve the UI/UX of web applications.
+Participated in code reviews, contributing to maintaining high code quality across the team.
+Part-Time Web Developer, Freelance (September 2021 - Present)
+
+Designed and developed websites for small businesses utilizing WordPress, HTML, CSS, and JavaScript, enhancing their online presence.
+Implemented responsive design to ensure websites are mobile-friendly.
+Certifications and Courses
+
+Python for Data Science, Coursera (Completed: August 2022)
+Full-Stack Web Development with React, Coursera (Completed: May 2022)
+Interests
+
+Avid follower of emerging technologies in AI and machine learning.
+Enjoys participating in hackathons and coding competitions.
+Keen interest in fitness and running marathons.
+References
+
+Available upon request.
